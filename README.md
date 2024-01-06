@@ -1,2 +1,3 @@
-# Bot-wa
-bot wa menggunakan node js
+# FrameWork ANT untuk go
+
+v 0.0.1
